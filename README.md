@@ -17,5 +17,5 @@ Each notebook starts with a cell of parameters: change them and run all the cell
 
 | Notebook | Chapter | Subject |
 |---|---|---|
-| [`ch04_angle_basis.ipynb`](ch04_angle_basis.ipynb) | 4, Function Spaces | Angles between functions; Gram matrices of monomials, sines and clamped-bar polynomials; conditioning; best approximation with nearly parallel and with orthonormal bases |
+| [`ch04_angle_basis.ipynb`](ch04_angle_basis.ipynb) | 4, Function Spaces | Angles between functions: how little a new monomial adds to the previous ones (also sines and clamped-bar polynomials, in the $L^2$, $H^1$ and energy inner products) |
 | [`appA_condition_number.ipynb`](appA_condition_number.ipynb) | Appendix A, Mathematical Toolbox | Condition number of a linear system: perturbed loads, worst case and round-off; stiffness matrix of a bar and Hilbert matrix |
